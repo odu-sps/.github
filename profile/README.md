@@ -22,8 +22,8 @@ Our graduate students are researching the following:
 |---|---|
 | President | Ali Mand |
 | Vice President | Tyler Johnson |
-| Treasurer | Evan [last_name] |
-| Historian | Shane [last_name] |
+| Treasurer | Evan Johnson |
+| Historian | Shane Spencer |
 | Outreach | Brandon Velasco |
 | Telescope Lead | Wyatt Elliott |
 | Data Lead | Graeme Benson |
