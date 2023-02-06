@@ -1,6 +1,4 @@
-# ODU SPS 
-
-*Welcome to the Old Dominion University Society of Physics Students GitHub! We appreciate your visit.*
+# *Welcome to the Old Dominion University Society of Physics Students' GitHub! We appreciate your visit.*
 
 ## Our organization engages in STEM education, mentorship, and community outreach.
 
@@ -18,17 +16,17 @@ Our graduate students are researching the following:
 - Procrastination (j/k)
 
 # Officers
-| Role | Officer Name |
-|---|---|
-| President | Ali Mand |
-| Vice President | Tyler Johnson |
-| Treasurer | Evan Johnson |
-| Historian | Shane Spencer |
-| Outreach | Brandon Velasco |
-| Telescope Lead | Wyatt Elliott |
-| Data Lead | Graeme Benson |
+| Role | Officer Name | Major/Research Area |
+|---|---|---|
+| President | Ali Mand |---|
+| Vice President | Tyler Rose |---|
+| Treasurer | Evan Johnson |---|
+| Historian | Shane Spencer | Marine Biology |
+| Outreach | Brandon Velasco | Astrophysics |
+| Telescope Lead | Wyatt Elliott | Astrophysics |
+| Data Lead | Graeme Benson | Astrophysics |
 
 # Change Log 
 | Date | Name | Revision | Notes |
 |---|---|---|---|
-| 2023-02-06 | g-r-a-e-m-e | 0.01 | initial commit |
+| 2023-02-06 | [g-r-a-e-m-e](https://github.com/g-r-a-e-m-e) | 0.01 | initial commit |
