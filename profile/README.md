@@ -16,16 +16,16 @@ Our graduate students are researching the following:
 - Procrastination (j/k)
 
 # Officers
-| Role | Officer Name | Major/Interest/Research Area |
-|---|---|---|
-| President | Ali Mand |Astrophysics, Computer Engineering|
-| Vice President | Tyler Rose | Biomedical |
-| Treasurer | Evan Johnson |---|
-| Secretary | David Routhier | Physics
-| Historian | Shane Spencer | Marine Biology |
-| Outreach | Brandon Velasco | Astrophysics |
-| Telescope Lead | Wyatt Elliott | Astrophysics |
-| Data Lead | Graeme Benson | Astrophysics, Data Science |
+| Role | Officer Name | Major/Interest/Research Area | GitHub Profile |
+|---|---|---|---|
+| President | Ali Mand |Astrophysics, Computer Engineering|---|
+| Vice President | Tyler Rose | Biomedical |---|
+| Treasurer | Evan Johnson |---|---|
+| Secretary | David Routhier | Physics |---|
+| Historian | Shane Spencer | Marine Biology |---|
+| Outreach | Brandon Velasco | Astrophysics |---|
+| Telescope Lead | Wyatt Elliott | Astrophysics |---|
+| Data Lead | Graeme Benson | Astrophysics, Data Science | [g-r-a-e-m-e](https://github.com/g-r-a-e-m-e) |
 
 # Change Log 
 | Date | Name | Revision | Notes |
