@@ -4,7 +4,7 @@
 
 We are a diverse student body comprised of undergraduate and graduate students who are interested in physics.
 
-Our undergraduate students' majors include:
+Our undergraduate students' majors include, but are not limited to...
 - Physics
 - Astrophysics
 - Chemistry
@@ -16,15 +16,16 @@ Our graduate students are researching the following:
 - Procrastination (j/k)
 
 # Officers
-| Role | Officer Name | Major/Research Area |
+| Role | Officer Name | Major/Interest/Research Area |
 |---|---|---|
-| President | Ali Mand |---|
-| Vice President | Tyler Rose |---|
+| President | Ali Mand |Astrophysics, Computer Engineering|
+| Vice President | Tyler Rose | Biomedical |
 | Treasurer | Evan Johnson |---|
+| Secretary | David Routhier | Physics
 | Historian | Shane Spencer | Marine Biology |
 | Outreach | Brandon Velasco | Astrophysics |
 | Telescope Lead | Wyatt Elliott | Astrophysics |
-| Data Lead | Graeme Benson | Astrophysics |
+| Data Lead | Graeme Benson | Astrophysics, Data Science |
 
 # Change Log 
 | Date | Name | Revision | Notes |
