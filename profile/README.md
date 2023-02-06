@@ -16,7 +16,7 @@ Our undergraduate students' majors include:
 
 Our graduate students are researching the following:
 - Procrastination (j/k)
-- 
+
 # Officers
 | Role | Officer Name |
 |---|---|
@@ -29,6 +29,6 @@ Our graduate students are researching the following:
 | Data Lead | Graeme Benson |
 
 # Change Log 
-| Date | Revision | Notes |
-|---|---|---|
-| 2023-02-06 | 0.01 | initial commit |
+| Date | Name | Revision | Notes |
+|---|---|---|---|
+| 2023-02-06 | g-r-a-e-m-e | 0.01 | initial commit |
