@@ -23,9 +23,9 @@ Our graduate students are researching the following:
 | Treasurer | Evan Johnson |---|---|
 | Secretary | David Routhier | Physics |---|
 | Historian | Shane Spencer | Marine Biology |---|
-| Outreach | Brandon Velasco | Astrophysics |---|
+| Outreach Officer | Brandon Velasco | Astrophysics |---|
 | Telescope Lead | Wyatt Elliott | Astrophysics |---|
-| Data Lead | Graeme Benson | Astrophysics, Data Science | [g-r-a-e-m-e](https://github.com/g-r-a-e-m-e) |
+| Data Officer | Graeme Benson | Astrophysics, Data Science | [g-r-a-e-m-e](https://github.com/g-r-a-e-m-e) |
 
 # Change Log 
 | Date | Name | Revision | Notes |
