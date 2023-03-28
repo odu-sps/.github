@@ -20,11 +20,11 @@ Our graduate students are researching the following:
 |---|---|---|---|
 | President | Ali Mand |Astrophysics, Computer Engineering|---|
 | Vice President | Tyler Rose | Biomedical |---|
-| Treasurer | Evan Johnson |---|---|
+| Treasurer | Evan Johnson | Physics |---|
 | Secretary | David Routhier | Physics |---|
 | Historian | Shane Spencer | Marine Biology |---|
 | Outreach Officer | Brandon Velasco | Astrophysics | [B-Velasco](https://github.com/B-Velasco)|
-| Telescope Lead | Wyatt Elliott | Astrophysics |---|
+| Telescope Lead | Wyatt Elliott | Astrophysics | [Wyattoille](https://github.com/Wyattoille) |
 | Data Officer | Graeme Benson | Astrophysics, Data Science | [g-r-a-e-m-e](https://github.com/g-r-a-e-m-e) |
 
 # Change Log 
@@ -32,3 +32,4 @@ Our graduate students are researching the following:
 |---|---|---|---|
 | 2023-02-06 | [g-r-a-e-m-e](https://github.com/g-r-a-e-m-e) | 0.01 | initial commit |
 | 2023-02-08 | [g-r-a-e-m-e](https://github.com/g-r-a-e-m-e) | 0.02 | added officer GitHub |
+| 2023-03-28 | [g-r-a-e-m-e](https://github.com/g-r-a-e-m-e) | 0.03 | updated officer's GitHub profiles |
