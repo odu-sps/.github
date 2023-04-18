@@ -28,7 +28,7 @@ Our graduate students are researching the following:
 | Data Officer | Graeme Benson | Astrophysics, Data Science | [g-r-a-e-m-e](https://github.com/g-r-a-e-m-e) |
 
 ## Members
-To request membership, please follow our organization and send a message to gbens001@odu.edu with the subject "ODU-SPS GitHub Organization Member Request". Use the [following template](https://github.com/odu-sps/.github/blob/264f33293b19bd07d1a6bdfd43d55d1eec683371/templates/membership-request.txt) in the body of the email.
+To request membership, please follow our organization and send a message to gbens001@odu.edu with the subject "ODU-SPS GitHub Organization Member Request". Use the [following template](https://raw.githubusercontent.com/odu-sps/.github/264f33293b19bd07d1a6bdfd43d55d1eec683371/templates/membership-request.txt) in the body of the email.
 
 ## Change Log 
 | Date | Name | Revision | Notes |
