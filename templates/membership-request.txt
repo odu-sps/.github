@@ -1,0 +1,12 @@
+Hello! 
+
+I would like to become a member of the ODU-SPS organization on GitHub. Here is my information...
+
+Name: [Last, First]
+GitHub Username: [Username]
+Student Status: [Yes/No]
+Academic Institution: [School Name]
+Academic Email: [email@school.edu]
+Society of Physics Students Member: [Yes/No]
+
+Thank you!
