@@ -15,7 +15,7 @@ Our undergraduate students' majors include, but are not limited to...
 Our graduate students are researching the following:
 - Procrastination (j/k)
 
-# Officers
+## Officers
 | Role | Officer Name | Major/Interest/Research Area | GitHub Profile |
 |---|---|---|---|
 | President | Brandon Velasco | Astrophysics | [B-Velasco](https://github.com/B-Velasco)|
@@ -27,10 +27,14 @@ Our graduate students are researching the following:
 | Telescope Lead | --- | --- |---|
 | Data Officer | Graeme Benson | Astrophysics, Data Science | [g-r-a-e-m-e](https://github.com/g-r-a-e-m-e) |
 
-# Change Log 
+## Members
+To request membership, please follow our organization and send a message to gbens001@odu.edu with the subject "ODU-SPS GitHub Organization Member Request". Use the [following template](templates/membership-request.txt) in the body of the email.
+
+## Change Log 
 | Date | Name | Revision | Notes |
 |---|---|---|---|
 | 2023-02-06 | [g-r-a-e-m-e](https://github.com/g-r-a-e-m-e) | 0.01 | initial commit |
 | 2023-02-08 | [g-r-a-e-m-e](https://github.com/g-r-a-e-m-e) | 0.02 | added officer GitHub |
 | 2023-03-28 | [g-r-a-e-m-e](https://github.com/g-r-a-e-m-e) | 0.03 | updated officer's GitHub profiles |
 | 2023-04-18 | [g-r-a-e-m-e](https://github.com/g-r-a-e-m-e) | 0.04 | updated officer list |
+| 2023-04-18 | [g-r-a-e-m-e](https://github.com/g-r-a-e-m-e) | 0.05 | added membership request and updated formatting |
