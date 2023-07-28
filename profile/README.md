@@ -38,3 +38,4 @@ To request membership, please follow our organization and send a message to gben
 | 2023-03-28 | [g-r-a-e-m-e](https://github.com/g-r-a-e-m-e) | 0.03 | updated officer's GitHub profiles |
 | 2023-04-18 | [g-r-a-e-m-e](https://github.com/g-r-a-e-m-e) | 0.04 | updated officer list |
 | 2023-04-18 | [g-r-a-e-m-e](https://github.com/g-r-a-e-m-e) | 0.05 | added membership request and updated formatting |
+| 2023-07-28 | [g-r-a-e-m-e](https://github.com/g-r-a-e-m-e) | 0.06 | implemented Discord announcement integration |
