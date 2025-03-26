@@ -18,14 +18,13 @@ Our graduate students are researching the following:
 ## Officers
 | Role | Officer Name | Major/Interest/Research Area | GitHub Profile |
 |---|---|---|---|
-| President | Brandon Velasco | Astrophysics | [B-Velasco](https://github.com/B-Velasco)|
-| Vice President | Wyatt Elliott | Astrophysics | [Wyattoille](https://github.com/Wyattoille) |
+| President | --- | --- | --- |
+| Vice President | --- | --- | --- |
 | Treasurer | --- | --- |---|
 | Secretary | --- | --- |---|
 | Historian | --- | --- |---|
 | Outreach Officer | --- | --- |---|
 | Telescope Lead | --- | --- |---|
-| Data Officer | Graeme Benson | Astrophysics, Data Science | [g-r-a-e-m-e](https://github.com/g-r-a-e-m-e) |
 
 ## Members
 To request membership, please follow our organization and send a message to gbens001@odu.edu with the subject "ODU-SPS GitHub Organization Member Request". Use the [following template](https://raw.githubusercontent.com/odu-sps/.github/264f33293b19bd07d1a6bdfd43d55d1eec683371/templates/membership-request.txt) in the body of the email.
@@ -39,3 +38,4 @@ To request membership, please follow our organization and send a message to gben
 | 2023-04-18 | [g-r-a-e-m-e](https://github.com/g-r-a-e-m-e) | 0.04 | updated officer list |
 | 2023-04-18 | [g-r-a-e-m-e](https://github.com/g-r-a-e-m-e) | 0.05 | added membership request and updated formatting |
 | 2023-07-28 | [g-r-a-e-m-e](https://github.com/g-r-a-e-m-e) | 0.06 | implemented Discord announcement integration |
+| 2025-03-26 | [g-r-a-e-m-e](https://github.com/g-r-a-e-m-e) | 0.07 | updated README.md |
